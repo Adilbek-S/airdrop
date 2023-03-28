@@ -1,0 +1,42 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  label {
+    color: #8b87aa;
+  }
+  
+  input {
+    padding: 12px 16px;
+    background: #ffffff;
+    border: 2px solid #dcdbdd;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 12px 16px;
+    margin: 5px 0px 0px 0px;
+    background: #bec1ba;
+    border-radius: 12px;
+  }
+  
+  main {
+    max-width: 38rem;
+    padding: 2rem;
+    margin: auto;
+  }
+
+  html {
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    margin: 3em 0 1em;
+  }
+  
+  
